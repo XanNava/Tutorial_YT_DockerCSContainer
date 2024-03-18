@@ -1,4 +1,5 @@
 # YT_DockerCSContainer
+https://www.youtube.com/watch?v=bg0QVTS4Q0c
 
 Had to add a Publishing option named DefaultContainer, also had to disable AOT as it caused an error on publish<br>
 "Cross-OS native compilation is not supported."<br>
